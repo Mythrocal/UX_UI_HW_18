@@ -1,0 +1,45 @@
+
+
+#inline-block{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.Logo{
+    scale: 0.25;
+    width: 23%;
+    padding: 1%;
+    text-align: left;
+}
+
+.nav{
+width: 73%;
+margin-left: auto;
+}
+
+ul{
+    width: 50%;
+    margin-left: auto;
+}
+.aboutHero{
+height: 500px;
+padding: 50px;
+grid: auto;
+background-color: #C9FCFA;
+margin-left: auto;
+}
+
+
+.projectHero{
+    height: 500px;
+    padding: 50px;
+    margin-right: auto;
+    background-color: #F8FB9D;
+
+    }
+
+p, br{
+width: 500px;
+margin: 0 auto;
+}
+
